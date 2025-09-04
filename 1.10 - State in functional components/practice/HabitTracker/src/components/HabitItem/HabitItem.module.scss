@@ -1,0 +1,62 @@
+@use "../../styles/mixins.scss" as m;
+
+.item {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    row-gap: 12px;
+    background-color: var(--bg-overlay);
+    width: 100%;
+    color: var(--text-light);
+    padding: 12px 24px;
+    border-radius: 10px;
+    transition: background-color var(--transition-fast);
+
+    &.completed .itemTitle {
+        text-decoration: line-through;
+    }
+
+    @include m.hover {
+        background-color: var(--bg-card-dark);
+    }
+
+    .itemTitle {
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .itemActions {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .itemInfo {
+        display: flex;
+        flex-direction: column;
+        row-gap: 6px;
+        align-items: start;
+        font-size: 12px;
+    }
+
+    .itemCompleted {
+        color: var(--color-danger);
+
+        .success {
+            color: var(--color-success);
+        }
+    }
+
+    .itemButtons {
+        display: flex;
+        align-items: center;
+        column-gap: 6px;
+    }
+
+    .itemButton {
+        width: 32px;
+        aspect-ratio: 1/1;
+        border-radius: 4px;
+    }
+}

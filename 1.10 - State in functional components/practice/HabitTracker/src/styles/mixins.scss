@@ -1,0 +1,14 @@
+@mixin hover {
+    @media all and (hover: hover) {
+        &:hover {
+            cursor: pointer;
+            @content;
+        }
+    }
+
+    @media all and (hover: none) {
+        &:active {
+            @content;
+        }
+    }
+}

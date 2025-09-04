@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    align-items: center;
+    column-gap: 24px;
+    position: relative;
+    height: 50px;
+}
+
+.input {
+    height: 100%;
+    border-radius: 10px;
+    background-color: var(--bg-overlay);
+    color: var(--color-light);
+    padding-left: 10px;
+    width: 100%;
+
+    &::placeholder {
+        font-weight: 500;
+        color: currentColor;
+    }
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    aspect-ratio: 1/1;
+}
