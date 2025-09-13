@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer {
+  body {
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+    width: 100%;
+    background-color: rgb(33, 47, 68);
+    font-weight: 400;
+  }
+}

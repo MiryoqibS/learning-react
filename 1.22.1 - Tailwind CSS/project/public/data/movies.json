@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Железный человек 3",
+        "description": "Тони Старк сталкивается с новым могущественным врагом, а его личная жизнь и технологии подвергаются испытанию.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/ru/1/14/Iron_Man_3.jpg",
+        "rating": "7.2",
+        "createdAt": "2013-05-03"
+    },
+    {
+        "title": "Мстители: Финал",
+        "description": "Супергерои объединяются для финальной битвы с Таносом, чтобы спасти вселенную.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+        "rating": "8.4",
+        "createdAt": "2019-04-26"
+    },
+    {
+        "title": "Человек-паук: Через вселенные",
+        "description": "Майлз Моралес становится Человеком-пауком и встречает альтернативные версии супергероев.",
+        "thumbnail": "https://kinogo.ec/uploads/mini/shortphone/062/e35cb48dbe3f7bc0b6fdf426f0f39.jpg",
+        "rating": "8.4",
+        "createdAt": "2018-12-14"
+    },
+    {
+        "title": "Темный рыцарь",
+        "description": "Бэтмен борется с Джокером, который сеет хаос в Готэм-сити.",
+        "thumbnail": "https://kinogo.ec/uploads/mini/shortphone/2d1/9f46cb14dd412962ae1322bb4a5df.jpg",
+        "rating": "9.0",
+        "createdAt": "2008-07-18"
+    },
+    {
+        "title": "Начало",
+        "description": "Домен Кобб — мастер сновидений, который внедряется в подсознание людей, чтобы украсть или вставить идеи.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/ru/b/bc/Poster_Inception_film_2010.jpg",
+        "rating": "8.8",
+        "createdAt": "2010-07-16"
+    },
+    {
+        "title": "Гарри Поттер и философский камень",
+        "description": "Мальчик-волшебник Гарри Поттер узнаёт о своём наследии и поступает в Хогвартс.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/ru/b/b4/Harry_Potter_and_the_Philosopher%27s_Stone_%E2%80%94_movie.jpg",
+        "rating": "7.6",
+        "createdAt": "2001-11-16"
+    },
+    {
+        "title": "Властелин колец: Братство Кольца",
+        "description": "Фродо Бэггинс отправляется в путешествие, чтобы уничтожить могущественное кольцо.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/ru/0/08/The_Lord_of_the_Rings._The_Fellowship_of_the_Ring_%E2%80%94_movie.jpg",
+        "rating": "8.8",
+        "createdAt": "2001-12-19"
+    },
+    {
+        "title": "Интерстеллар",
+        "description": "Группа исследователей отправляется через червоточину в поисках новой планеты для человечества.",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+        "rating": "8.6",
+        "createdAt": "2014-11-07"
+    },
+    {
+        "title": "Форсаж 7",
+        "description": "Доминик Торетто и его команда сталкиваются с новым опасным врагом и делают ставку на семью.",
+        "thumbnail": "https://kinogo.ec/uploads/posts/2020-03/1585530869-884411508.jpg",
+        "rating": "7.1",
+        "createdAt": "2015-04-03"
+    },
+    {
+        "title": "Дюна",
+        "description": "Пол Атрейдес борется за выживание и контроль над пустынной планетой Арракис, источником самой ценной субстанции во вселенной.",
+        "thumbnail": "https://static.okko.tv/images/v4/168e8e29-0509-4c75-ac86-c8bcfac8bb76",
+        "rating": "8.0",
+        "createdAt": "2021-10-22"
+    }
+]
