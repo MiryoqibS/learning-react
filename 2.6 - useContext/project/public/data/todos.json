@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "text": "Выучить основы React",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "text": "Разобраться с хуками",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "text": "Закрепить useCallback",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "text": "Сделать проект TodoList",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "text": "Потренироваться с фильтрацией",
+        "completed": true
+    }
+]
