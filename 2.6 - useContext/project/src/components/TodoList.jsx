@@ -1,8 +1,8 @@
-import React from 'react'
-import { useContext } from 'react'
-import { TodoContext } from '../contexts/TodoContext';
-import { TodoItem } from './TodoItem';
-import { ThemeContext } from '../contexts/ThemeContext';
+import React from "react"
+import { useContext } from "react"
+import { TodoContext } from "../contexts/TodoContext";
+import { TodoItem } from "./TodoItem";
+import { ThemeContext } from "../contexts/ThemeContext";
 
 export const TodoList = () => {
     const { todos, deleteTodo } = useContext(TodoContext);

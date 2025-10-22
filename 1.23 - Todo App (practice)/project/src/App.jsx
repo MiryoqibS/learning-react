@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
-import { TodoList } from './components/TodoList';
-import { AddTodo } from './components/AddTodo';
+import React, { useState } from "react";
+import { TodoList } from "./components/TodoList";
+import { AddTodo } from "./components/AddTodo";
 import { v4 as generateId } from "uuid";
 
 function App() {

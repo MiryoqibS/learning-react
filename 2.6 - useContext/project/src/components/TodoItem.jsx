@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 
 export const TodoItem = ({ todo, deleteTodo }) => {
     const { text } = todo;

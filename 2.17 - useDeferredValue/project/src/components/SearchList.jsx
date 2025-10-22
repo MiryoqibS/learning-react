@@ -1,5 +1,5 @@
-import React, { memo } from 'react'
-import { SearchItem } from './SearchItem';
+import React, { memo } from "react"
+import { SearchItem } from "./SearchItem";
 
 export const SearchList = memo(({ query }) => {
     console.log("Рендер SearchList");

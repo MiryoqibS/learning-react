@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react'
-import { TimerDisplay } from './TimerDisplay';
-import { TimerControls } from './TimerControls';
+import React, { useEffect, useState } from "react"
+import { TimerDisplay } from "./TimerDisplay";
+import { TimerControls } from "./TimerControls";
 
 export const Timer = () => {
     const [isTimerStarted, setIsTimerStarted] = useState(false);

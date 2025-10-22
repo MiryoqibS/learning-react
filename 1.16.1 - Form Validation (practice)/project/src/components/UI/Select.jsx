@@ -1,5 +1,5 @@
-import React from 'react'
-import { ErrorText } from './ErrorText'
+import React from "react"
+import { ErrorText } from "./ErrorText"
 
 export const Select = ({ label, value, options = [], onChange = () => { }, error }) => {
     return (

@@ -1,8 +1,8 @@
-import React from 'react';
-import { useRef } from 'react';
-import { PlayerControls } from './PlayerControls';
+import React from "react";
+import { useRef } from "react";
+import { PlayerControls } from "./PlayerControls";
 import { ArrowLeftIcon, ActivityIcon } from "lucide-react";
-import { useState } from 'react';
+import { useState } from "react";
 import musicSrc from "../assets/music/music.mp3";
 import discImg from "../assets/disc.png";
 

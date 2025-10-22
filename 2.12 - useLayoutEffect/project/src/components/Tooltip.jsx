@@ -1,5 +1,5 @@
-import React, { useRef } from 'react'
-import { useTooltipPosition } from '../hooks/useTooltipPosition';
+import React, { useRef } from "react"
+import { useTooltipPosition } from "../hooks/useTooltipPosition";
 
 export const Tooltip = ({ targetRef, children, show }) => {
     const tooltipRef = useRef(null);

@@ -1,9 +1,9 @@
-import React from 'react'
-import { lazy } from 'react';
-import { useState } from 'react'
-import { Button } from './components/UI/Button';
-import { Suspense } from 'react';
-import { Loader } from './components/Loader';
+import React from "react"
+import { lazy } from "react";
+import { useState } from "react"
+import { Button } from "./components/UI/Button";
+import { Suspense } from "react";
+import { Loader } from "./components/Loader";
 
 export const App = () => {
   const [page, setPage] = useState("");

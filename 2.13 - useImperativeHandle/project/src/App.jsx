@@ -1,5 +1,5 @@
-import React, { useRef } from 'react'
-import { Modal } from './components/Modal';
+import React, { useRef } from "react"
+import { Modal } from "./components/Modal";
 
 export const App = () => {
   const modalRef = useRef(null);

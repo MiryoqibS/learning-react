@@ -1,6 +1,6 @@
-import React from 'react';
-import { useId } from 'react';
-import { Input } from './UI/Input';
+import React from "react";
+import { useId } from "react";
+import { Input } from "./UI/Input";
 
 export const Field = ({ fieldName, fieldTitle, handleChange, inputType = "text", inputValue }) => {
     const fieldId = `${useId()}-${fieldName}`;

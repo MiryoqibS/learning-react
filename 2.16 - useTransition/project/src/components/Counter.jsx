@@ -1,5 +1,5 @@
-import React, { useState, useTransition } from 'react'
-import { Button } from './UI/Button';
+import React, { useState, useTransition } from "react"
+import { Button } from "./UI/Button";
 
 export const Counter = () => {
     const [isPending, startTransition] = useTransition();

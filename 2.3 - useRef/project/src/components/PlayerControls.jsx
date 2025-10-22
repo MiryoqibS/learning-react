@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { PlayIcon, PauseIcon, RewindIcon } from "lucide-react";
 
 export const PlayerControls = ({ isPlaying, playMusic, pauseMusic, forwardMusic, backwardMusic }) => {

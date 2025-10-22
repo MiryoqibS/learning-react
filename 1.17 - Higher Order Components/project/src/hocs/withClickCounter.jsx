@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from "react"
 
 export const withClickCounter = (WrappedComponent) => {
     return function EnhancedComponent(props) {

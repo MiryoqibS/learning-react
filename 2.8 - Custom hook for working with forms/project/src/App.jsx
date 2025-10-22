@@ -1,7 +1,7 @@
-import React from 'react'
-import { LoginForm } from './components/LoginForm'
-import { RegisterForm } from './components/RegisterForm'
-import { useForm } from './hooks/useForm';
+import React from "react"
+import { LoginForm } from "./components/LoginForm"
+import { RegisterForm } from "./components/RegisterForm"
+import { useForm } from "./hooks/useForm";
 
 export const App = () => {
   const loginForm = useForm({});

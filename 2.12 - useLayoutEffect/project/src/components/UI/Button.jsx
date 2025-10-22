@@ -1,5 +1,5 @@
-import React, { useRef, useState } from 'react'
-import { Tooltip } from '../Tooltip';
+import React, { useRef, useState } from "react"
+import { Tooltip } from "../Tooltip";
 
 export const Button = ({ children }) => {
     const btnRef = useRef(null);

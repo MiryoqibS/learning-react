@@ -1,8 +1,8 @@
-import React from 'react'
-import { useContext } from 'react'
-import { TodoContext } from '../contexts/TodoContext';
-import { useState } from 'react';
-import { ThemeContext } from '../contexts/ThemeContext';
+import React from "react"
+import { useContext } from "react"
+import { TodoContext } from "../contexts/TodoContext";
+import { useState } from "react";
+import { ThemeContext } from "../contexts/ThemeContext";
 
 export const AddTodo = () => {
     const [todoText, setTodoText] = useState("");

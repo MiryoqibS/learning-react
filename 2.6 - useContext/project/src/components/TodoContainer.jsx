@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react"
 import { AddTodo } from "./AddTodo";
-import { TodoList } from './TodoList';
-import { memo } from 'react';
+import { TodoList } from "./TodoList";
+import { memo } from "react";
 
 export const TodoContainer = memo(() => {
     return (

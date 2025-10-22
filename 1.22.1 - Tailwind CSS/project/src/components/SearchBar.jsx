@@ -1,5 +1,5 @@
-import React from 'react';
-import { Input } from './UI/Input';
+import React from "react";
+import { Input } from "./UI/Input";
 import { SearchIcon } from "lucide-react";
 
 export const SearchBar = ({ inputProps }) => {

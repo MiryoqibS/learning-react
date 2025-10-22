@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import { useFetchMovies } from '../hooks/useFetchMovies';
-import { MovieList } from '../components/MovieList';
-import { SearchBar } from '../components/SearchBar';
+import React, { useState } from "react";
+import { useFetchMovies } from "../hooks/useFetchMovies";
+import { MovieList } from "../components/MovieList";
+import { SearchBar } from "../components/SearchBar";
 
 export const Home = () => {
     const [query, setQuery] = useState("");

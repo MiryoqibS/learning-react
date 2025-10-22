@@ -1,8 +1,8 @@
-import React from 'react'
-import { Field } from './UI/Field'
-import { useForm } from '../hooks/useForm'
-import { Button } from './UI/Button';
-import { Select } from './UI/Select';
+import React from "react"
+import { Field } from "./UI/Field"
+import { useForm } from "../hooks/useForm"
+import { Button } from "./UI/Button";
+import { Select } from "./UI/Select";
 
 export const Form = () => {
     const { values, errors, handleChange, isValid, clearValues } = useForm({

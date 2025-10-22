@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { TimerIcon, TimerOffIcon, TimerResetIcon } from "lucide-react";
 
 export const TimerControls = ({ isStarted, startTimer, stopTimer, resetTimer }) => {

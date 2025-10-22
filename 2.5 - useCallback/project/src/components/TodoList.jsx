@@ -1,5 +1,5 @@
-import React, { memo } from 'react'
-import { TodoItem } from './TodoItem';
+import React, { memo } from "react"
+import { TodoItem } from "./TodoItem";
 
 export const TodoList = memo(({ todos, toggleTodo }) => {
     console.log("Рендер TodoList");

@@ -1,6 +1,6 @@
-import { Layout } from './components/Layout';
-import React from 'react'
-import { Route, Routes } from 'react-router-dom'
+import { Layout } from "./components/Layout";
+import React from "react"
+import { Route, Routes } from "react-router-dom"
 
 // == Компоненты страниц ==
 import { HomePage } from "./pages/HomePage";

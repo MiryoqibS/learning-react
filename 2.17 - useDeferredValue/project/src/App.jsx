@@ -1,5 +1,5 @@
-import React, { useDeferredValue, useEffect, useState } from 'react';
-import { SearchList } from './components/SearchList';
+import React, { useDeferredValue, useEffect, useState } from "react";
+import { SearchList } from "./components/SearchList";
 
 export const App = () => {
   const [query, setQuery] = useState("");

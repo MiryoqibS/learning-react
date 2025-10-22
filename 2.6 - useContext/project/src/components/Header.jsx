@@ -1,7 +1,7 @@
-import React from 'react';
-import { ThemeContext } from '../contexts/ThemeContext'
-import { useContext } from 'react';
-import { UserContext } from '../contexts/UserContext';
+import React from "react";
+import { ThemeContext } from "../contexts/ThemeContext"
+import { useContext } from "react";
+import { UserContext } from "../contexts/UserContext";
 
 export const Header = () => {
   const { theme, toggleTheme } = useContext(ThemeContext);

@@ -1,5 +1,5 @@
-import React, { useContext, useState } from 'react'
-import { TasksContext } from '../context/TasksContext';
+import React, { useContext, useState } from "react"
+import { TasksContext } from "../context/TasksContext";
 
 export const AddTask = () => {
     const [title, setTitle] = useState("");

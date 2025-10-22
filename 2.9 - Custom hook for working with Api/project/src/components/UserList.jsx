@@ -1,5 +1,5 @@
-import React, { useEffect } from 'react'
-import { useApi } from '../hooks/useApi'
+import React, { useEffect } from "react"
+import { useApi } from "../hooks/useApi"
 
 export const UserList = () => {
     const { data, isLoading, error, get } = useApi("https://jsonplaceholder.typicode.com/");

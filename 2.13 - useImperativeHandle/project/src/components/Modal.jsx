@@ -1,4 +1,4 @@
-import React, { forwardRef, useImperativeHandle, useRef } from 'react';
+import React, { forwardRef, useImperativeHandle, useRef } from "react";
 
 export const Modal = forwardRef((props, ref) => {
     const modalRef = useRef(null);

@@ -1,7 +1,7 @@
-import React, { useReducer, useState } from 'react'
-import { Button } from './UI/Button'
-import { Input } from './UI/Input'
-import { counterReducer, initialState } from '../reducers/counterReducer';
+import React, { useReducer, useState } from "react"
+import { Button } from "./UI/Button"
+import { Input } from "./UI/Input"
+import { counterReducer, initialState } from "../reducers/counterReducer";
 
 export const Counter = () => {
     const [state, dispatch] = useReducer(counterReducer, initialState);

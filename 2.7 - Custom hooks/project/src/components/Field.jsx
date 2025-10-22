@@ -1,5 +1,5 @@
-import React from 'react'
-import { useLocalStorage } from '../hooks/useLocalStorage'
+import React from "react"
+import { useLocalStorage } from "../hooks/useLocalStorage"
 import { UserIcon } from "lucide-react";
 
 export const Field = () => {

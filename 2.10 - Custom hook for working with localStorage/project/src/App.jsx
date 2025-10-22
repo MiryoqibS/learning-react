@@ -1,6 +1,6 @@
-import React from 'react'
-import { AddTask } from './components/AddTask';
-import { TasksList } from './components/TasksList';
+import React from "react"
+import { AddTask } from "./components/AddTask";
+import { TasksList } from "./components/TasksList";
 
 export const App = () => {
   return (

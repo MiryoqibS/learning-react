@@ -1,6 +1,6 @@
-import React from 'react'
-import { Input } from './Input'
-import { ErrorText } from './ErrorText'
+import React from "react"
+import { Input } from "./Input"
+import { ErrorText } from "./ErrorText"
 
 export const Field = ({ label, error, inputProps }) => {
     return (

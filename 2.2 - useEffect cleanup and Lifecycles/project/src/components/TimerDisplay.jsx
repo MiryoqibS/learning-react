@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 
 export const TimerDisplay = ({ time }) => {
     const hours = Math.floor(time / 3600);

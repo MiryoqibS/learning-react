@@ -1,7 +1,7 @@
-import React from 'react'
-import { useForm } from '../hooks/useForm'
-import { Button } from './UI/Button';
-import { Field } from './Field';
+import React from "react"
+import { useForm } from "../hooks/useForm"
+import { Button } from "./UI/Button";
+import { Field } from "./Field";
 
 export const RegisterForm = () => {
     const { fields, handleChange, clearFields, getFieldValue } = useForm();

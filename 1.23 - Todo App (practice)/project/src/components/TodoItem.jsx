@@ -1,5 +1,5 @@
-import React from 'react';
-import { CheckIcon, TrashIcon } from 'lucide-react';
+import React from "react";
+import { CheckIcon, TrashIcon } from "lucide-react";
 
 export const TodoItem = ({ todo, onDelete, onCheck }) => {
     const { id, text, isChecked } = todo;

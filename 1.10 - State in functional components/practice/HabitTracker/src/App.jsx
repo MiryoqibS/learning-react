@@ -1,4 +1,4 @@
-import { HabitTracker } from './components/HabitTracker/HabitTracker'
+import { HabitTracker } from "./components/HabitTracker/HabitTracker"
 
 function App() {
   return (

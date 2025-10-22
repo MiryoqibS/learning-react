@@ -1,5 +1,5 @@
-import { useEffect } from 'react';
-import './App.css'
+import { useEffect } from "react";
+import "./App.css"
 import { Controller, useForm } from "react-hook-form";
 import { CheckIcon } from "lucide-react";
 

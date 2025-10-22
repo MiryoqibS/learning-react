@@ -1,7 +1,7 @@
-import './App.css'
-import { Button } from './components/Button'
-import { Link } from './components/Link';
-import { withClickCounter } from './hocs/withClickCounter'
+import "./App.css"
+import { Button } from "./components/Button"
+import { Link } from "./components/Link";
+import { withClickCounter } from "./hocs/withClickCounter"
 
 function App() {
 
