@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Miryoqib/Desktop/Roadmap/learning-react/3.11/project/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <div>Моё первое приложение на Next.js</div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;kBAAI;;;;;;AAET","debugId":null}}]
+}

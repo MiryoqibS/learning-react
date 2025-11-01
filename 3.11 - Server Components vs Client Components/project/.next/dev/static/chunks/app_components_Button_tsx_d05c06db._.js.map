@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Miryoqib/Desktop/Roadmap/learning-react/3.11/project/app/components/Button.tsx"],"sourcesContent":["\"use client\";\r\n\r\nconst Button = () => {\r\n    console.log(\"Рендер клиентского компонента\");\r\n\r\n    return (\r\n        <button\r\n            className=\"bg-orange-500 px-4 py-1 rounded w-fit transition-colors cursor-pointer hover:bg-orange-600\"\r\n            onClick={() => alert(\"нажми меня\")}\r\n        >Нажми меня</button>\r\n    );\r\n}\r\n\r\nexport default Button;"],"names":[],"mappings":";;;;;AAAA;;AAEA,MAAM,SAAS;IACX,QAAQ,GAAG,CAAC;IAEZ,qBACI,6LAAC;QACG,WAAU;QACV,SAAS,IAAM,MAAM;kBACxB;;;;;;AAET;KATM;uCAWS","debugId":null}}]
+}
